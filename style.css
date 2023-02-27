@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+a:hover{
+  background-color: lightblue;
+  color: pink;
+}
+a:active{
+  background-color: coral;
+  color: purple;
+}
+body{
+    background-image: url("https://i.pinimg.com/474x/6d/b7/69/6db7695d93a36dce93e94c8521787eb5.jpg");
+background-repeat: no-repeat ;
+background-size:cover ;
+   }
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+
+a,h1 h2{
+  color: black;
+}
+
+
+
+
+
+
+*{
+  color: black
+}
+
+main{
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 35px;
+}
+
+h1:first-letter, a:first-letter{
+  font-size: 2em;
+}
+
+}
+nav a
+  text-decoration: none;
+  margin: 220px;
+
+img[alt="wolf"]{
+  margin: 38px;
+  width: 40%;
+}
+  
